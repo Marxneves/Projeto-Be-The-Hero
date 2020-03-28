@@ -34,7 +34,7 @@ Para o mobile
 expo start
 Para visualização da aplicação mobile utilize o celular com o aplicativo Expo ou emulador Android/iOS.
 
-Autor
+<h1>Autor</h1>
 Marx Neves.
 
 Agradecimentos
