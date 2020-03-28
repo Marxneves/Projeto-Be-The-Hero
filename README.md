@@ -13,7 +13,7 @@ Criar uma plataforma web/mobile utilizando React e React-native para frontend da
 <h2>Pré requisitos</h2>
 git, node, express, knex, sqlite, react, react-native, expo
 
-<h2>Instalação<h2>
+<h2>Instalação</h2>
 Clone o repositório, utilizando git clone ou faça o download do repositório.
 
 Após clonar ou baixar o repositório instale as dependências necessárias:
