@@ -28,7 +28,7 @@ export default function NewIncident(){
         };
 
         try {
-            await api.post('incident', data, {
+            await api.post('incidents', data, {
                 headers: {
                     Authorization: ongId,
                 }

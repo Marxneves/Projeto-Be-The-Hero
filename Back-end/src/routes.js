@@ -15,8 +15,8 @@ routes.post('/ongs', OngController.create);
 
 routes.get('/profile', ProfileController.index);
 
-routes.get('/incident', IncidentController.index);
-routes.post('/incident', IncidentController.create);
-routes.delete('/incident/:id',IncidentController.delete);
+routes.get('/incidents', IncidentController.index);
+routes.post('/incidents', IncidentController.create);
+routes.delete('/incidents/:id',IncidentController.delete);
 
  module.exports = routes;
