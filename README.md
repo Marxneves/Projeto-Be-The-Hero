@@ -1,20 +1,19 @@
 # Projeto-Be-The-hero
-Projeto usando Node.js e Reactive Native
+
+<h2>Projeto usando Node.js e Reactive Native</h2>
 
 Be The Hero - Semana OmniStack 11
 Projeto desenvolvido na semana OmniStack 11 da Rocketseat dias 23/03/2020 à 27/03/2020.
 
 Com as aulas online do Diego Fernandes.
 
-Projeto
+<h2>Projeto</h2>
 Criar uma plataforma web/mobile utilizando React e React-native para frontend da web e mobile respectivamente e utilizar Express para o backend.
 
-Pré requisitos
+<h2>Pré requisitos</h2>
 git, node, express, knex, sqlite, react, react-native, expo
 Instalação
 Clone o repositório, utilizando git clone ou faça o download do repositório.
-
-aviso que o arquivo de gravação de tela do emulador que esta na pasta vídeo possui 25mb
 
 Após clonar ou baixar o repositório instale as dependências necessárias:
 
@@ -34,9 +33,8 @@ Para o mobile
 expo start
 Para visualização da aplicação mobile utilize o celular com o aplicativo Expo ou emulador Android/iOS.
 
-<h1>Autor</h1>
+<h2>Autor</h2>
 Marx Neves.
 
-Agradecimentos
-Rocketseat
-Diego Fernandes
+<h2>Agradecimentos</h2>
+Rocketseat / Diego Fernandes
