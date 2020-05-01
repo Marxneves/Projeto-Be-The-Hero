@@ -25,7 +25,8 @@ npm install
 Após instalar as dependências você precisa rodar o comando do knex para criar o banco de dados SQLite e as rodar as migrações.
 
 npx knex migrate:latest
-Após a geração do banco de dados e das migrações você poderá rodar o backend, frontend e mobile utilizando
+</br>
+Após a geração do banco de dados e das migrações você poderá rodar o backend, frontend e mobile utilizando:
 
 <h3>Para o backend e frontend:</h3>
 npm start
